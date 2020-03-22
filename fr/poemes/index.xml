@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poèmes on DominoPivot</title>
+    <link>https://www.dominopivot.com/fr/poemes/</link>
+    <description>Recent content in Poèmes on DominoPivot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020 DominoPivot. Tous droits réservés.</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.dominopivot.com/fr/poemes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artifice</title>
+      <link>https://www.dominopivot.com/fr/poemes/artifice/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/fr/poemes/artifice/</guid>
+      <description>Artifice Tout c&amp;rsquo;qui défile sur ta télé est surréel C&amp;rsquo;est que du feu, du flafla, des effets visuels Comme ces actrices toutes peinturées pas naturelles Et leurs faux double-D dans la dentelle
+Mais déjà pour les femmes elle est cruelle, la vie Pas de gras, pas de muscles sous les jarretelles, c&amp;rsquo;est interdit Pas un poil au vagin ou aux aisselles, merci Qu&amp;rsquo;importe si t&amp;rsquo;es pas bien, faut qu&amp;rsquo;tu sois belle, jolie!</description>
+    </item>
+    
+  </channel>
+</rss>

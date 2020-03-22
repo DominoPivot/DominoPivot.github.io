@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on DominoPivot&#39;s</title>
+    <link>https://www.dominopivot.com/blog/</link>
+    <description>Recent content in Blog on DominoPivot&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020 DominoPivot. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.dominopivot.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stop struggling with Microsoft Word</title>
+      <link>https://www.dominopivot.com/blog/word/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/blog/word/</guid>
+      <description>Stop struggling with Microsoft Word I recently had to collaborate on a project which involved writing a boring report with Microsoft Word. The experience made me realize&amp;mdash;or rather reminded me how little most people know how to use it. I thought I&amp;rsquo;d share with you a few tips to make you much more efficient with Microsoft Word.
+This article was written using Microsoft Word for Office 365 MSO (16.0.11629.20192) 32-bit. UI changes in further updates may not be accurately reflected.</description>
+    </item>
+    
+    <item>
+      <title>What is Pride</title>
+      <link>https://www.dominopivot.com/blog/pride/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/blog/pride/</guid>
+      <description>What is Pride Pride doesn&amp;rsquo;t mean considering yourself superior to others. It means not looking down, not feeling ashamed for who you are. It means keeping our head up in the face of adversity.
+Pride is an event meant to honor those who fought for our rights and those who still do, those who suffer or even die because of discrimination. It&amp;rsquo;s an event meant to remind the world that discrimination still exists and that we need to fight against it.</description>
+    </item>
+    
+    <item>
+      <title>A Guide to Stack Overflow</title>
+      <link>https://www.dominopivot.com/blog/stackoverflow-guide/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/blog/stackoverflow-guide/</guid>
+      <description>A Guide to Stack Overflow Stack Overflow is a lot more complex, rich and interesting than you might expect from just browsing it. If you&amp;rsquo;ve ever had a problem with your code and looked online for help, chances are you landed on Stack Overflow. This Q&amp;amp;A-style website has answers for all the entry-level problems you will face when learning programming, so it&amp;rsquo;s possible you will never need to create an account and ask your own questions.</description>
+    </item>
+    
+    <item>
+      <title>Different games</title>
+      <link>https://www.dominopivot.com/blog/different-games/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/blog/different-games/</guid>
+      <description>Different games A common question I get when I say I love video games is what kind of games do you play? and I never know what to answer. I am an experimentalist, my pleasure comes from discovering new things. I love playing games that surprise me. So for a first article on this blog I thought I would share with you some games that are quite unique and different. Games of all genres and on various platforms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concepts de Jeux on DominoPivot</title>
+    <link>https://www.dominopivot.com/fr/concepts/</link>
+    <description>Recent content in Concepts de Jeux on DominoPivot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020 DominoPivot. Tous droits réservés.</copyright>
+    
+	<atom:link href="https://www.dominopivot.com/fr/concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

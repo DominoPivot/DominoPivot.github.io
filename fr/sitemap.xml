@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/poemes/artifice/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/poems/artifice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/poemes/artifice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/poemes/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/poems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/poemes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/blogue/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/blogue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/concepts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/concepts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/concepts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/generique/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/generique/"
+                />
+  </url>
+  
+</urlset>

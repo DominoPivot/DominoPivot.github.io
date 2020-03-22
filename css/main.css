@@ -1,0 +1,263 @@
+@import url(base.css);
+@import url(animations.css);
+
+/* § Page layout */
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+
+body > .trunk {
+    padding: 1em;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1024px;
+}
+
+body > footer {
+    padding: 1em;
+    text-align: center;
+}
+
+
+/* § Masthead */
+
+.masthead {
+    background:
+        linear-gradient(
+            to right,
+            hsl(123, 50%, 30%) 33%,
+            hsl(168, 50%, 30%) 50%,
+            hsl(213, 50%, 30%) 66%
+        );
+    color: white;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.masthead a {
+    color: inherit;
+    display: block;
+    text-decoration: none;
+}
+
+.masthead__icon {
+    vertical-align: middle;
+}
+
+.masthead .is-current {
+    text-shadow: white 0 0 .5em, white 0 0 .5em;
+}
+
+.masthead__title {
+    font-family: Domine, serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: .25em .5em;
+}
+
+.masthead__nav {
+    background:
+        linear-gradient(
+            to right,
+            hsl(123, 50%, 70%) 33%,
+            hsl(168, 50%, 70%) 50%,
+            hsl(213, 50%, 70%) 66%
+        );
+    color: black;
+    display: flex;
+    flex-flow: column nowrap;
+    align-content: center;
+}
+
+.masthead__list {
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.masthead__list a {
+    padding: .25em .5em;
+}
+
+
+/* § Mastfoot */
+
+.mastfoot {
+    text-align: center;
+}
+
+.mastfoot__recent-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-size: 1.5rem;
+    list-style: none;
+    margin: .5em 0;
+    padding: 0;
+}
+
+.mastfoot__recent-list li {
+    margin: .25em;
+}
+
+.mastfoot__copyright {
+    font-size: smaller;
+}
+
+
+/* § Home page */
+
+.home-page {
+    display: grid;
+    grid-template-areas:
+        "icon"
+        "text";
+    grid-gap: 2em;
+    text-align: justify;
+}
+
+.home-page__logo {
+    -webkit-animation:spin 10s linear infinite;
+    animation:spin 10s linear infinite;
+    grid-area: icon;
+    margin: 0 auto;
+    pointer-events: none;
+    user-select: none;grid-area: icon;
+    margin: 0 auto;
+    pointer-events: none;
+    user-select: none;
+}
+
+.home-page__text {
+    grid-area: text;
+}
+
+@media screen and (min-width: 1024px) {
+    .home-page {
+        grid-template-areas: "icon text";
+    }
+}
+
+
+/* § Category page */
+
+.section-page__list {
+    display: grid;
+    grid-auto-columns: max-content;
+    grid-auto-flow: column;
+    grid-gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.section-page__item {
+    margin: 0;
+    padding: .3em;
+}
+
+.section-page__date {
+    opacity: 0.5
+}
+
+.emojinail {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.emojinail__emoji {
+    display: inline-block;
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+
+.emojinail__title {
+    text-decoration: underline;
+}
+
+.emojinail__date {
+    color: black;
+    opacity: .5;
+}
+
+
+/* § Poem styling */
+.poems-section p {
+    text-align: left;
+    white-space: pre-line
+}
+
+/* § Blog layout */
+
+.blog {
+    display: grid;
+    grid-template-areas:
+        "main"
+        "nav";
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr auto;
+    justify-content: center;
+    text-align: justify;
+}
+
+.blog__main {
+    grid-area: main;
+    padding: 1em;
+}
+
+.blog__nav {
+    align-items: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+    grid-area: nav;
+    justify-content: start;
+}
+
+@media screen and (min-width: 1024px) {
+    .blog {
+        grid-template-areas: "nav main";
+        grid-template-columns: 15% fit-content(1024px);
+        grid-template-rows: auto;
+    }
+
+    .blog__nav {
+        display: flex;
+        flex-flow: column nowrap;
+    }
+}
+
+
+/* § Portal */
+
+.portal {
+    background:
+        linear-gradient(
+            123deg,
+            hsl(213, 70%, 90%),
+            hsl(123, 70%, 90%)
+        );
+    display: inline-block;
+    list-style: none;
+    margin: 1em;
+    padding: 1em;
+}
+
+
+/* § Quick formatting and helpers */
+
+.pill {
+    background: hsl(168, 80%, 20%);
+    color: white;
+    padding: .25em;
+    border-radius: 9999px;
+    text-decoration: none;
+    white-space: nowrap;
+}

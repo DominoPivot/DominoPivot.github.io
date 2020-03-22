@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Concepts on DominoPivot&#39;s</title>
+    <link>https://www.dominopivot.com/concepts/</link>
+    <description>Recent content in Game Concepts on DominoPivot&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020 DominoPivot. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.dominopivot.com/concepts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One-dimensional Auditive Adventure</title>
+      <link>https://www.dominopivot.com/concepts/one-dimensional-auditive-adventure/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/concepts/one-dimensional-auditive-adventure/</guid>
+      <description>One-dimensional Auditive Adventure One reason why I&amp;rsquo;ve always wanted to make a blog was to follow in the steps of Three Hundred and post video game concepts and ideas I never had the time to implement. This article is the first of hopefully many on the topic, and describes an idea which came to me while learning the basics of programming in college.
+With my limited abilities at the time, I did some brainstorming about the kind of games I could render in a terminal.</description>
+    </item>
+    
+  </channel>
+</rss>
