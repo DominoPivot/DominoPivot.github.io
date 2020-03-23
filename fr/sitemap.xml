@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.dominopivot.com/fr/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,26 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/poemes/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/poems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/poemes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/poemes/qc-weeb/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,21 +49,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/artifice/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.dominopivot.com/fr/poemes/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.dominopivot.com/poems/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.dominopivot.com/fr/poemes/"
                 />
   </url>
   
