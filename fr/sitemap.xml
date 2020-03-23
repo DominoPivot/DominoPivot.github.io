@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.dominopivot.com/fr/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-23T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.dominopivot.com/fr/poemes/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-23T18:30:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +29,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/poemes/emoji/</loc>
+    <lastmod>2020-03-23T18:30:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.dominopivot.com/poems/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.dominopivot.com/fr/poemes/emoji/"
                 />
   </url>
   
