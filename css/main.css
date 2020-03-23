@@ -144,18 +144,25 @@ main {
 /* § Category page */
 
 .section-page__list {
-    display: grid;
-    grid-auto-columns: max-content;
-    grid-auto-flow: column;
-    grid-gap: 1rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
     list-style: none;
-    margin: 0;
+    margin: -.5rem;
     padding: 0;
 }
 
+@media screen and (min-width: 1024px) {
+    .section-page__list {
+        justify-content: flex-start;
+    }
+}
+
 .section-page__item {
-    margin: 0;
+    margin: .5rem;
     padding: .3em;
+    text-align: center;
+    width: 10em;
 }
 
 .section-page__date {
@@ -184,8 +191,17 @@ main {
 }
 
 
-/* § Poem styling */
-.poems-section p {
+/* § Article styling */
+
+article {
+    text-align: justify;
+}
+
+article footer {
+    font-size: smaller;
+}
+
+.poems-article > p {
     text-align: left;
     white-space: pre-line
 }
