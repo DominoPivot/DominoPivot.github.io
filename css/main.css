@@ -197,7 +197,8 @@ article {
     text-align: justify;
 }
 
-article footer {
+article footer,
+article .footnotes ol {
     font-size: smaller;
 }
 
