@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.dominopivot.com/</loc>
-    <lastmod>2020-04-13T22:38:00-04:00</lastmod>
+    <lastmod>2020-05-01T06:26:58-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.dominopivot.com/poems/</loc>
-    <lastmod>2020-04-13T22:38:00-04:00</lastmod>
+    <lastmod>2020-05-01T06:26:58-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,6 +30,11 @@
                 hreflang="en"
                 href="https://www.dominopivot.com/poems/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/poems/the-great-body-swap/</loc>
+    <lastmod>2020-05-01T06:26:58-04:00</lastmod>
   </url>
   
   <url>
