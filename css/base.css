@@ -250,6 +250,13 @@ blockquote > footer::before {
     content: "— "; /* em dash */
 }
 
+[lang=fr] q {
+    quotes:
+        "«\a0 " "\a0 »"
+        "“" "”"
+        "‘" "’";
+}
+
 
 /* § Figures */
 
