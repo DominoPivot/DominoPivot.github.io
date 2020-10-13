@@ -15,7 +15,7 @@
 <meta name="twitter:title" content="One-dimensional Auditive Adventure">
 <meta name="twitter:description" content="A concept for a game one pixel high but rich in sound.">
 
-<meta name="generator" content="Hugo 0.67.0" />
+<meta name="generator" content="Hugo 0.76.4" />
 <link rel="stylesheet" href="/css/main.css">
 
 <header class="masthead">
@@ -37,20 +37,20 @@
 
 <main>
     <article class=" concepts-article">
-    <h1 id="one-dimensional-auditive-adventure">One-dimensional Auditive Adventure</h1>
+    <h1 id="one-dimensional-auditive-adventure"><a href="#one-dimensional-auditive-adventure">One-dimensional Auditive Adventure</a></h1>
 <p>One reason why I&rsquo;ve always wanted to make a blog was to follow in the steps of <a href="http://www.squidi.net/three/index.php">Three Hundred</a> and post video game concepts and ideas I never had the time to implement. This article is the first of hopefully many on the topic, and describes an idea which came to me while learning the basics of programming in college.</p>
 <p>With my limited abilities at the time, I did some brainstorming about the kind of games I could render in a terminal. After coming up with a bunch of ideas, I realized I had completely ignored the aspect of sound design simply because I didn&rsquo;t know how to use any media in my programs. But since this was just a thought experiment and I didn&rsquo;t really plan on making all these games, I explored that thought further. A game could have minimalist graphics if it had enough audio cues to help convey ideas. That is how the One-dimensional Auditive Adventure became a thing.</p>
-<h2 id="interface">Interface</h2>
+<h2 id="interface"><a href="#interface">Interface</a></h2>
 <p>The game&rsquo;s interface is made of a row of 80 square tiles, stretched so that the tiles fill the whole horizontal space on screen. The rest of the screen is black. If you&rsquo;re wondering where the 80 comes from, that&rsquo;s just the standard width of old terminals. 80 characters.</p>
 <p>The player can move their tile left and right using two keys. If they reach the right edge of the viewport, the camera moves instantly to reveal a new area to the right, with the player now at the left edge of the viewport. The player can also use another key to interact with what they are facing.</p>
 <p>While the graphics are extremely limited, the sounds are as realistic and high quality as can be. The entire point of the game is to have the player explore the world, guessing what the colors on screen represent based on the audio cues. It&rsquo;s mostly an interactive piece of art with minimal gameplay and no loss state.</p>
-<h2 id="narrative-ideas">Narrative ideas</h2>
+<h2 id="narrative-ideas"><a href="#narrative-ideas">Narrative ideas</a></h2>
 <p>The game begins immediately as the program is launched. There is a row of dark green tiles of varying shades on screen. The player is represented by a beige tile followed by a blue tile. There are a few grey tiles on the left through which the player cannot pass. The sounds of birds and bugs can be heard, and the grass makes noise as the player walks.</p>
 <p>After moving to the right, the player arrives near a long orange line with a few brown spots. The player can walk <em>under</em> a few of these orange tiles, hiding their character from the view. They cannot, however, walk further than the first half of the orange line. If they interact with the orange line while under it, the sound of an axe chopping wood plays. Each interaction produces a slightly different sound until violent cracking is heard and the orange line shakes, then moves to the right, leaving a trail of brown behind. At this point, the player should have guessed they were looking at a tree from a top-down view, which has just fallen after it was chopped. The brown line is the trunk of the fallen tree and the orange parts are the leaves. The blue tile which we assumed was part of the character from the beginning is probably a backpack.</p>
 <p>Some time later night falls and reaching the middle of the screen causes the character to stop responding to input as a <em>cutscene</em> plays. The character lights a fire and sets up camp. Zippers, straps, fumbling noises&hellip; Then they pull out a light brown tile. When the player presses buttons, guitar strings are plucked. With the instrument tuned, music starts playing as the screen fades to black.</p>
 <p>We are awoken by thunder. The screen is be almost pitch black except for the remaining fumes of the firepit. Lighting strikes light up the area every now and then, revealing grass and mud. If the player tries to move back to the tree from earlier, lightning strikes the trunk and sets it on fire. The character will not go near, making some kind of noise to indicate their fear of the fire.</p>
 <p>The player might find a cave to mine in and collect diamonds. Or they might be attacked by a curious predator like a wolf or a bear. Or it might start snowing. It doesn&rsquo;t exactly matter what the story is, the idea is that everything could be told by using just a few colors and a lot of sound.</p>
-<h2 id="the-plot-twist">The plot twist</h2>
+<h2 id="the-plot-twist"><a href="#the-plot-twist">The plot twist</a></h2>
 <p>I don&rsquo;t think this is required for the game to be a fun little experiment, but I thought it would be neat to have a plot twist with a nice little message about the beauty of our world. After some important discovery in the game, the black portion of the screen would clear up, revealing that there was actually a whole 2D world hidden around us, with other people walking along the hidden rows. As the camera would pan out, more and more sounds would be heard, and the camera would tilt to reveal that everything was a voxel-based 3D world from the beginning. The camera would then look up at the stars. Then the screen would fade.</p>
 <p>With some time and effort, I could probably make that game happen&hellip; except for the all the sounds. That falls outside my domain, and for a project like this one, it&rsquo;s a little unthinkable to hire someone else. Still, if the idea motivates you, feel free to implement it, I&rsquo;m releasing this idea to the public domain.</p>
 <p>And if you&rsquo;ve seen or heard of some game which uses similar concepts, be sure to tell me about them on my twitter <a href="https://twitter.com/DominoPivot">@DominoPivot</a>.</p>

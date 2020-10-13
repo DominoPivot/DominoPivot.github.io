@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://www.dominopivot.com/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-05-01T06:26:58-04:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://www.dominopivot.com/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2020-05-09T15:10:01-04:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://www.dominopivot.com/en/sitemap.xml</loc>
+    
+      <lastmod>2020-05-01T06:26:58-04:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.dominopivot.com/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-05-09T15:10:01-04:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>
