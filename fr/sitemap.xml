@@ -38,13 +38,13 @@
   </url>
   
   <url>
-    <loc>https://www.dominopivot.com/fr/blogue/la-vie-est-belle-en-dehors-du-journal-de-montr%C3%A9al/</loc>
-    <lastmod>2020-05-09T15:10:01-04:00</lastmod>
+    <loc>https://www.dominopivot.com/fr/poemes/goliath-et-esther/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.dominopivot.com/fr/poemes/</loc>
-    <lastmod>2020-03-23T18:30:00+00:00</lastmod>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +55,11 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.dominopivot.com/fr/blogue/la-vie-est-belle-en-dehors-du-journal-de-montr%C3%A9al/</loc>
+    <lastmod>2020-05-09T15:10:01-04:00</lastmod>
   </url>
   
   <url>
