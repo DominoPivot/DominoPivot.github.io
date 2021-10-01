@@ -232,8 +232,8 @@ ol dl {
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote
 
     Long story short:
-    - <blockquote> can specify source in <footer>
-    - <footer> can include work's title in <cite>
+    - To mention source, put the <blockquote> in a <figure> and add a <figcaption>
+    - The figcaption can contain the name of the work wrapped in a <cite>
 */
 
 blockquote {
@@ -271,7 +271,6 @@ figcaption {
     font-size: 0.8em;
     font-style: italic;
     margin: .415em;
-    text-align: center;
 }
 
 

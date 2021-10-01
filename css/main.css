@@ -273,3 +273,11 @@ article .footnotes ol {
     text-decoration: none;
     white-space: nowrap;
 }
+
+.image-figure {
+    text-align: center;
+}
+
+.quote-figure figcaption {
+    text-align: center;
+}

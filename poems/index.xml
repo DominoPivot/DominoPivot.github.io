@@ -6,10 +6,19 @@
     <description>Recent content in Poems on DominoPivot&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2020 DominoPivot. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 06:26:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.dominopivot.com/poems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goretober 2021</title>
+      <link>https://www.dominopivot.com/poems/goretober/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dominopivot.com/poems/goretober/</guid>
+      <description>A series of short poems about gore themes.</description>
+    </item>
     
     <item>
       <title>The Great Body-Swap</title>
