@@ -54,7 +54,7 @@ html {
 
 html {
     /* allows vertical centering and window footer */
-    height: 100vh;
+    height: 100%;
     overflow-y: scroll;
 }
 
