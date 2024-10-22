@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.dominopivot.com/fr/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/blogue/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,19 +27,13 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/blogue/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/blogue/quest-ce-que-la-fiert%C3%A9/</loc>
     <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/poemes/goliath-et-esther/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/poemes/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,14 +46,10 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/blogue/la-vie-est-belle-en-dehors-du-journal-de-montr%C3%A9al/</loc>
     <lastmod>2020-05-09T15:10:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/poemes/emoji/</loc>
     <lastmod>2020-03-23T18:30:00+00:00</lastmod>
     <xhtml:link
@@ -75,14 +62,10 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/emoji/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/poemes/qc-weeb/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/poemes/artifice/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,9 +78,7 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/poemes/artifice/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/concepts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,9 +90,7 @@
                 hreflang="fr"
                 href="https://www.dominopivot.com/fr/concepts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.dominopivot.com/fr/generique/</loc>
     <xhtml:link
                 rel="alternate"
@@ -124,5 +103,4 @@
                 href="https://www.dominopivot.com/fr/generique/"
                 />
   </url>
-  
 </urlset>
